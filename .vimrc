@@ -4,7 +4,7 @@ set go-=m
 filetype plugin on
 syntax on
 set t_Co=256 
-colorscheme bclear
+colorscheme herald
 color bclear
 set ttyfast " tell vim we're using a fast terminal for redraws
 set title " Set window title with the vim file
