@@ -5,12 +5,12 @@ filetype plugin on
 syntax on
 set t_Co=256 
 colorscheme herald
-color bclear
+color herald
 set ttyfast " tell vim we're using a fast terminal for redraws
 set title " Set window title with the vim file
 set mouse=a
-set background=light
-hi LineNr guibg=white guifg=black
+set background=dark
+"hi LineNr guibg=white guifg=black
 
 " Indent
 " -----------
